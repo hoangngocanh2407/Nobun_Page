@@ -63,7 +63,7 @@ export default function Contact() {
               </svg>
               <div>
                 <h3 className="font-medium text-gray-800">Email</h3>
-                <p className="text-gray-600">contact@nobun.com</p>
+                <p className="text-gray-600">nobun@gmail.com</p>
               </div>
             </li>
           </ul>
